@@ -1,0 +1,13 @@
+@media (min-aspect-ratio: 16/9){
+	.bg-video{
+		width: 100%;
+		height: auto;
+	}
+}
+
+@media (min-aspect-ratio: 16/9){
+	.bg-video{
+		width: auto;
+		height: 100%;
+	}
+}
